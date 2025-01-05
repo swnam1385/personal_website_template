@@ -1,14 +1,9 @@
 ---
-layout: single
+layout: posts
 author_profile: true
-permalink: /myfinal/
-title: Myfinal
-tags: [Hoby]
-modified: 9-14-2019
-comments: false
+permalink: /blog/
+title: Blog Posts
+tags: [blog]
+modified: 3-10-2019
+comments: true
 ---
-
-
-* [BJJ](http://www.bjjheros.com/)
-
-
