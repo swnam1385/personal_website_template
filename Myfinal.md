@@ -1,12 +1,19 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
+permalink: /Myfinal/
 title: Resume
-tags: [resume, cv]
+tags: [resume, Myfinal]
 modified: 4-14-2019
 comments: false
 ---
+
+
+gallery:
+  - url: /assets/images/1.jpg
+    image_path: /assets/images/1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 
 # ekhteshash
